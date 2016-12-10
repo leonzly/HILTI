@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tabs>
+    <tab
+        id="@+id/home"
+        icon="@drawable/ic_home"
+        title="Home" />
+    <tab
+        id="@+id/message"
+        icon="@drawable/ic_sms"
+        title="Message" />
+    <tab
+        id="@+id/tab_star"
+        icon="@drawable/ic_star"
+        title="Star" />
+    <tab
+        id="@+id/People"
+        icon="@drawable/ic_people"
+        title="People" />
+</tabs>
