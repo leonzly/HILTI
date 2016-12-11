@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
-<tabs>
+<tabs xmlns:android="http://schemas.android.com/apk/res/android">
     <tab
-        id="@+id/home"
+        android:id="@+id/tab_home"
         icon="@drawable/ic_home"
         title="Home" />
     <tab
-        id="@+id/message"
+        android:id="@+id/tab_message"
         icon="@drawable/ic_sms"
         title="Message" />
     <tab
-        id="@+id/tab_star"
+        android:id="@+id/tab_star"
         icon="@drawable/ic_star"
         title="Star" />
     <tab
-        id="@+id/People"
+        android:id="@+id/tab_people"
         icon="@drawable/ic_people"
         title="People" />
 </tabs>
